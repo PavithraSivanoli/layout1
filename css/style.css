@@ -1,0 +1,87 @@
+
+.start
+{
+	
+	background-color:grey;
+	height:49px;
+	width:1348px;
+	margin-bottom:20px;
+}
+.section1
+{
+     background-color:violet;
+	height:200px;
+	width:300px;
+
+}
+.call-to-action
+{
+	background-color:DarkTurquoise;
+	height:50px;
+	width:117px;
+	float:right;
+	
+}
+.tagline
+{
+	margin-top:100px;
+	width:1400px;
+	background-color:silver;
+	height:200px;
+		margin-bottom:20px;
+	
+} 
+.card1
+{
+	float:left;
+	height:350px;
+	width:400px;
+	display:flex-start;
+	background-color:blue;
+		margin-bottom:20px;
+		margin-left:2%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+		
+		
+}
+.card2
+{
+	float:left;
+	height:350px;
+	width:400px;
+	background-color:blue;
+		margin-bottom:20px;
+			display:flex-start;
+					margin-left:0%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+
+}
+.card3
+{
+	float:left;
+	height:350px;
+	width:400px;
+	background-color:blue;
+		margin-bottom:20px;
+			display:flex-start;
+					margin-left:0%;
+		margin-right:2%;
+		text-align:center;
+		line-heigth:50px;
+
+
+}
+	
+.website
+{
+	clear:both;
+	background-color:pink;
+	height:200px;
+	width:1348px;
+	
+	
+	
